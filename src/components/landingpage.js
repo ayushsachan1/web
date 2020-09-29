@@ -15,11 +15,11 @@ class Landing extends Component {
               />
 
             <div className="banner-text">
-              <h1>Full Stack Web Developer</h1>
+              <h1>Mechanchie</h1>
 
             <hr/>
 
-          <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
+          <p>Web Development | Machine learning | PC Gaming | </p>
 
         <div className="social-links">
 
@@ -29,13 +29,13 @@ class Landing extends Component {
           </a>
 
           {/* Github */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
+          <a href="https://github.com/ayushsachan1" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-github-square" aria-hidden="true" />
           </a>
 
-          {/* Freecodecamp */}
-          <a href="http://google.com" rel="noopener noreferrer" target="_blank">
-            <i className="fa fa-free-code-camp" aria-hidden="true" />
+          {/* Instagram */}
+          <a href="https://www.instagram.com/ayush.sachan1/" rel="noopener noreferrer" target="_blank">
+            <i className="fa fa-instagram" aria-hidden="true" />
           </a>
 
           {/* Youtube */}
